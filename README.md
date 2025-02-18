@@ -9,6 +9,4 @@ Esse repositório é do desafio proposto pelo progrma da Oracle junto com a Alur
 
 - Também foi necessário a utilização de condicionais, uma condicional para garantir que não houvésse nomes repetido e outra para checar se há valor na entrada.
 
-- [17_02_2025, 22_14_37 - Screen - Vídeo sem título.webm](https://github.com/user-attachments/assets/1a22ffdb-df71-46d8-9c15-e26c1eeed09f)
-
-
+- ![Vídeo sem título ‐ Feito com o Clipchamp](https://github.com/user-attachments/assets/72390ca9-04e4-48ed-b62b-7dda884caebf)
